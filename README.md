@@ -1,10 +1,10 @@
 # 👋 Hola, Soy Gustavo! 
 
-🎓 Soy estudiante de Ingeniería en Informática 
+🎓 Soy estudiante de Ingeniería en Informática.
 
-💻 Me especializo en desarrollo backend y gestión de datos
+💻 Me especializo en desarrollo backend, gestión de datos y construcción de APIs.
 
-🌱 Desarrollador en formación, analítico y autodidacta, con interés en resolver problemas reales y aprender constantemente en entornos colaborativos
+🌱 Desarrollador en formación, analítico y autodidacta, con interés en resolver problemas reales y aprender constantemente en entornos colaborativos.
 
 
 ---
