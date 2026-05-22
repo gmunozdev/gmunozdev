@@ -22,25 +22,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🤝 Proyectos Colaborativos y Contribuciones
-
-🔹 **Sistema de Gestión Taller Mecánico (Desarrollo FullStack Django)**  
-Repositorio: [🔗 Ver proyecto](https://github.com/RoaStack/Serviexpress)  
-- Desarrollo de endpoints con Django  
-- Modelado de base de datos en PostgreSQL  
-- Implementación de lógica de negocio, consultas ORM y validaciones  
-
-🔹 **Aplicación Web - Gestión de Reservas Barbería (Backend + DB)**  
-Repositorio: [🔗 Ver proyecto](https://github.com/RoaStack/Software-Barberia)  
-- Diseño y consultas SQL  
-- Integración backend con frontend  
-- Manejo de formularios, reservas y persistencia de datos  
-- Resolución de issues y mejoras funcionales
-
----
-
 ## 📫 Contáctame:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavomu%C3%B1ozdev)
